@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FlyerTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_flyer_title">Title</string>
+    <string name="new_flyer_page_title">New flyer</string>
+    <string name="new_flyer_description">Description</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_wifi_only">Wifi only</string>
+    <string name="pref_wifi_only_summary">Downloads and uploads data only when WiFi is enabled</string>
+    <string name="pref_wifi_only_summary_on">Downloads and uploads data only when WiFi is enabled</string>
+    <string name="pref_wifi_only_summary_off">Downloads and uploads data as soon as access to internet is possible</string>
+</resources>
